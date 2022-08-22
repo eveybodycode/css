@@ -5,10 +5,10 @@
     box-sizing: border-box;
 }
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Elephant;
 }
 nav{
-    background-color: #36344d;
+    background-color: #e6152a;
     
 }
 .list{
@@ -19,4 +19,8 @@ nav{
 ul{
     display: flex;
     list-style: none;
+}
+i{
+    color:pink;
+    size: 40px;
 }
