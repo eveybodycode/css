@@ -26,6 +26,7 @@ ul{
 i{
     color: white;
     size: 50px;
+    user-select: none;
 }
 ol{
     display: flex;
