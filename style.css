@@ -5,8 +5,11 @@
     box-sizing: border-box;
 }
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    background: #f5f5f5;
 }
+
 nav{
     background-color: #36344d;
     
@@ -17,6 +20,14 @@ nav{
     align-items: center;
 }
 ul{
+    display: flex;
+    list-style: none;
+}
+i{
+    color: white;
+    size: 50px;
+}
+ol{
     display: flex;
     list-style: none;
 }
